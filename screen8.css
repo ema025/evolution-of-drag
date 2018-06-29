@@ -1,0 +1,283 @@
+@charset "UTF-8";
+.figure8  {
+	width: 730px;
+	height: 689px;
+	background-repeat: no-repeat;
+	position: relative;
+	z-index: 200;
+	background-size: contain;
+	left: 30%;
+	top: -245px;
+	background-image: url(graphics/screen8_illustration.png);
+}
+.tip36 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: 76px;
+	left: 982px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 498;
+	display: block;
+	background-image: url(graphics/tip_racing.gif);
+}
+div.tip36:hover+ div.tip36box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 456;
+	position: absolute;
+	top: 3px;
+	left: 686px;
+	width: 275px;
+	height: auto;
+	font-family: Cantarell;
+	font-weight: 700;
+	font-size: 14px;
+	color: rgba(150,30,30,1.00);
+}
+div.tip36+ div.tip36box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 456;
+	position: absolute;
+	background-repeat: no-repeat;
+	background-color: #F6ECEA;
+}
+.tip37 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: -7px;
+	left: 382px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 463;
+	display: block;
+	background-image: url(graphics/tip_racing.gif);
+}
+div.tip37+ div.tip37box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 453;
+	position: absolute;
+	background-repeat: no-repeat;
+	color: #FFFFFF;
+	font-family: Roboto;
+	font-size: 13px;
+}
+div.tip37:hover+ div.tip37box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 463;
+	position: absolute;
+	top: 105px;
+	left: 263px;
+	width: 275px;
+	height: auto;
+	font-family: Cantarell;
+	font-weight: 700;
+	font-size: 14px;
+	background-color: #F7EDEB;
+	color: rgba(148,32,34,1.00);
+}
+.tip38 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: 159px;
+	left: 108px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 400;
+	display: block;
+	background-image: url(graphics/tip_racing.gif);
+}
+div.tip38+ div.tip38box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 400;
+	position: absolute;
+	background-repeat: no-repeat;
+	color: #F5EBEA;
+	background-color: #F6ECEA;
+}
+div.tip38:hover+ div.tip38box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 400;
+	position: absolute;
+	width: 275px;
+	height: auto;
+	font-family: Cantarell;
+	font-weight: 700;
+	font-size: 14px;
+	color: #9C232C;
+	left: 164px;
+	top: 155px;
+}
+.tip39 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: 113px;
+	left: 1035px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 400;
+	display: block;
+	background-image: url(graphics/tip_racing.gif);
+}
+div.tip39+ div.tip39box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 400;
+	position: absolute;
+	background-repeat: no-repeat;
+	background-color: #67556C;
+	font-size: 13px;
+	color: #F7EDEC;
+}
+div.tip39:hover+ div.tip39box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 400;
+	position: absolute;
+	top: 168px;
+	left: 782px;
+	width: 225px;
+	height: auto;
+	font-family: Cantarell;
+	font-weight: 700;
+	font-size: 14px;
+	background-color: #F6ECEA;
+	color: #9E222A;
+}
+.tip40 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: 159px;
+	left: 280px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 400;
+	display: block;
+	background-image: url(graphics/tip_racing.gif);
+}
+div.tip40+ div.tip40box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 400;
+	position: absolute;
+	background-repeat: no-repeat;
+	color: #FFFFFF;
+	font-family: Roboto;
+	font-size: 13px;
+	background-color: #F7EDEB;
+}
+div.tip40:hover+ div.tip40box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 400;
+	position: absolute;
+	top: 163px;
+	left: 166px;
+	width: 275px;
+	height: auto;
+	font-family: Cantarell;
+	font-weight: 700;
+	font-size: 14px;
+	color: #9B1F26;
+}
+.text15 {
+	width: 435px;
+	height: 161px;
+	color: rgba(187,71,69,1.00);
+	font-family: Cantarell;
+	font-size: 14px;
+	display: block;
+	z-index: 247;
+	position: relative;
+	top: -550px;
+	left: 7%;
+	padding-top: 22px;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-bottom: 50px;
+	background-color: #f1cf81;
+	margin-top: 27px;
+}
+.text16 {
+	width: 435px;
+	height: 161px;
+	color: rgba(187,71,69,1.00);
+	font-family: Cantarell;
+	font-size: 14px;
+	display: block;
+	z-index: 247;
+	position: relative;
+	top: -810px;
+	left: 52%;
+	padding-top: 40px;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-bottom: 32px;
+	background-color: #f1cf81;
+	margin-top: 27px;
+}

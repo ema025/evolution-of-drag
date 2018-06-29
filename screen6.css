@@ -1,0 +1,274 @@
+@charset "UTF-8";
+.tip26 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: 225px;
+	left: 94px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 400;
+	display: block;
+	background-image: url(graphics/tip_6ish.gif);
+}
+div.tip26+ div.tip26box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 400;
+	position: absolute;
+	background-repeat: no-repeat;
+	background-color: #FFFFFF;
+}
+div.tip26:hover+ div.tip26box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 443;
+	position: absolute;
+	top: 160px;
+	left: 162px;
+	width: 275px;
+	height: auto;
+	font-family: Cantarell;
+	font-weight: 700;
+	font-size: 14px;
+	color: #7f0307;
+}
+.tip27 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: 440px;
+	left: 94px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 400;
+	display: block;
+	background-image: url(graphics/tip_6ish.gif);
+}
+div.tip27+ div.tip27box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 400;
+	position: absolute;
+	background-repeat: no-repeat;
+	background-color: #FFFFFF;
+}
+div.tip27:hover+ div.tip27box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 443;
+	position: absolute;
+	top: 437px;
+	left: 161px;
+	width: 275px;
+	height: auto;
+	font-family: Cantarell;
+	font-weight: 700;
+	font-size: 14px;
+	color: #7f0307;
+}
+.tip28 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: 207px;
+	left: 507px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 400;
+	display: block;
+	background-image: url(graphics/tip_6ish.gif);
+}
+div.tip28+ div.tip28box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 400;
+	position: absolute;
+	background-repeat: no-repeat;
+	background-color: #FFFFFF;
+}
+div.tip28:hover+ div.tip28box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 443;
+	position: absolute;
+	top: 95px;
+	left: 401px;
+	width: 267px;
+	height: auto;
+	font-family: Cantarell;
+	font-weight: 700;
+	font-size: 14px;
+	color: #7f0307;
+}
+.tip29 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: 57px;
+	left: 1001px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 400;
+	display: block;
+	background-image: url(graphics/tip_6ish.gif);
+}
+div.tip29+ div.tip29box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 400;
+	position: absolute;
+	background-repeat: no-repeat;
+	background-color: #FFFFFF;
+}
+div.tip29:hover+ div.tip29box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 443;
+	position: absolute;
+	top: -4px;
+	left: 827px;
+	width: 337px;
+	height: auto;
+	font-family: Cantarell;
+	font-weight: 700;
+	font-size: 14px;
+	color: #7f0307;
+}
+.tip30 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: 312px;
+	left: 1036px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 400;
+	display: block;
+	background-image: url(graphics/tip_6ish.gif);
+}
+div.tip30+ div.tip30box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 400;
+	position: absolute;
+	background-repeat: no-repeat;
+	background-color: #FFFFFF;
+	color: undefined;
+}
+div.tip30:hover+ div.tip30box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 535;
+	position: absolute;
+	top: 424px;
+	left: 789px;
+	width: 212px;
+	height: auto;
+	font-family: Cantarell;
+	font-weight: 700;
+	font-size: 14px;
+	color: #7f0307;
+}.text12 {
+	width: 430px;
+	height: 257px;
+	color: #422A01;
+	font-family: Cantarell;
+	font-size: 14px;
+	display: block;
+	z-index: 121;
+	position: relative;
+	top: -807px;
+	left: 22%;
+	padding-top: 21px;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-bottom: 39px;
+	background-color: #f4d49b;
+	margin-top: 27px;
+}
+.text11 {
+	width: 477px;
+	height: 206px;
+	color: #58290B;
+	font-family: Cantarell;
+	font-size: 14px;
+	display: block;
+	z-index: 247;
+	position: relative;
+	top: -819px;
+	left: 22%;
+	padding-top: 30px;
+	padding-right: 436px;
+	padding-left: 30px;
+	padding-bottom: 30px;
+	background-color: #f4d49b;
+	margin-top: 27px;
+}
+.figure6  {
+	width: 479px;
+	height: 592px;
+	background-repeat: no-repeat;
+	position: relative;
+	z-index: 328;
+	background-size: contain;
+	left: 62%;
+	top: -158px;
+	background-image: url(graphics/screen6_illustration.png);
+	color: #000000;
+}

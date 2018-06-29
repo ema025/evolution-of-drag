@@ -1,0 +1,279 @@
+@charset "UTF-8";
+.figure2  {
+	width: 806px;
+	height: 626px;
+	background-repeat: no-repeat;
+	position: relative;
+	z-index: 200;
+	left: 36%;
+	top: -205px;
+	background-image: url(graphics/screen2_illustration.jpg);
+}
+.tip6 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: 86px;
+	left: 618px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 400;
+	display: block;
+	background-image: url(graphics/tip_2.gif);
+}
+div.tip6+ div.tip6box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 400;
+	position: absolute;
+	background-repeat: no-repeat;
+}
+div.tip6:hover+ div.tip6box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 400;
+	position: absolute;
+	top: 158px;
+	left: 509px;
+	width: 275px;
+	height: auto;
+	font-family: Cantarell;
+	font-weight: 700;
+	font-size: 14px;
+	color: rgba(150,30,30,1.00);
+	background-color: #F7EDEB;
+}
+.tip7 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: 123px;
+	left: 382px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 400;
+	display: block;
+	background-image: url(graphics/tip_2.gif);
+}
+div.tip7+ div.tip7box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 400;
+	position: absolute;
+	background-repeat: no-repeat;
+	color: #FFFFFF;
+	font-family: Roboto;
+	font-size: 13px;
+}
+div.tip7:hover+ div.tip7box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 528;
+	position: absolute;
+	top: -23px;
+	left: 267px;
+	width: 275px;
+	height: auto;
+	font-family: 'Cantarell', sans-serif;
+	font-weight: 700;
+	font-size: 14px;
+	background-color: #F7EDEB;
+	color: rgba(148,32,34,1.00);
+}
+.tip8 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: 100px;
+	left: 110px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 500;
+	display: block;
+	background-image: url(graphics/tip_2.gif);
+}
+div.tip8+ div.tip8box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 800;
+	position: absolute;
+	background-repeat: no-repeat;
+	color: #F5EBEA;
+}
+div.tip8:hover+ div.tip8box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 800;
+	position: absolute;
+	top: 262px;
+	left: 8px;
+	width: 275px;
+	height: auto;
+	font-family: 'Cantarell', sans-serif;
+	font-weight: 700;
+	font-size: 14px;
+	color: #9C232C;
+	background-color: #F7EDEB;
+}
+.tip9 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: 191px;
+	left: 901px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 400;
+	display: block;
+	background-image: url(graphics/tip_2.gif);
+}
+div.tip9+ div.tip9box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 400;
+	position: absolute;
+	background-repeat: no-repeat;
+	font-size: 13px;
+	color: #F7EDEC;
+}
+div.tip9:hover+ div.tip9box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 400;
+	position: absolute;
+	top: 130px;
+	left: 809px;
+	width: 225px;
+	height: auto;
+	font-family: 'Cantarell', sans-serif;
+	font-weight: 700;
+	font-size: 14px;
+	background-color: #F7EDEB;
+	color: #9E222A;
+}
+.tip10 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: 144px;
+	left: 254px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 509;
+	display: block;
+	background-image: url(graphics/tip_2.gif);
+}
+div.tip10+ div.tip10box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 502;
+	position: absolute;
+	background-repeat: no-repeat;
+	color: #FFFFFF;
+	font-family: Roboto;
+	font-size: 13px;
+}
+div.tip10:hover+ div.tip10box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 501;
+	position: absolute;
+	top: 402px;
+	left: 148px;
+	width: 275px;
+	height: auto;
+	font-family: 'Cantarell', sans-serif;
+	font-weight: 700;
+	font-size: 14px;
+	color: #9B1F26;
+	background-color: #F7EDEB;
+}
+.text3 {
+	width: 529px;
+	height: 194px;
+	color: rgba(255,255,255,1.00);
+	font-family: 'Cantarell', sans-serif;
+	font-size: 14px;
+	display: block;
+	z-index: 247;
+	position: relative;
+	top: -499px;
+	left: 17%;
+	padding: 30px;
+	background-color: rgba(187,70,69,0.82);
+	margin-top: 27px;
+}
+.text4 {
+	width: 417px;
+	height: 100vh;
+	color: #FFFFFF;
+	font-family: 'Cantarell', sans-serif;
+	font-size: 14px;
+	display: block;
+	z-index: 121;
+	position: relative;
+	top: -1173px;
+	left: 67%;
+	padding-top: 35px;
+	padding-right: 35px;
+	padding-left: 35px;
+	background-color: rgba(187,70,69,0.82);
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}

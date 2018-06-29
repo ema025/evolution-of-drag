@@ -1,0 +1,267 @@
+@charset "UTF-8";
+.text7 {
+	width: 296px;
+	height: 471px;
+	color: #024690;
+	font-family: 'Cantarell', sans-serif;
+	font-size: 14px;
+	display: block;
+	z-index: 121;
+	position: relative;
+	top: -674px;
+	left: 8%;
+	padding-top: 30px;
+	padding-right: 30px;
+	padding-left: 30px;
+	background-color: rgba(178,189,203,0.83);
+}
+.text8 {
+	width: 545px;
+	height: 174px;
+	color: #024690;
+	font-family: 'Cantarell', sans-serif;
+	font-size: 14px;
+	display: block;
+	position: relative;
+	top: -909px;
+	left: 41%;
+	padding: 30px;
+	background-color: #B2BDCB;
+	z-index: 159;
+}
+.tip16 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: -6px;
+	left: 701px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 400;
+	display: block;
+	background-image: url(graphics/tip_5_glass.gif);
+}
+div.tip16+ div.tip16box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 400;
+	position: absolute;
+	background-repeat: no-repeat;
+	background-color: #FFFFFF;
+}
+div.tip16:hover+ div.tip16box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 443;
+	position: absolute;
+	top: 55px;
+	left: 585px;
+	width: 275px;
+	height: auto;
+	font-family: 'Cantarell', sans-serif;
+	font-weight: 700;
+	font-size: 14px;
+	color: #024690;
+}
+.tip17 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: 310px;
+	left: 504px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 400;
+	display: block;
+	background-image: url(graphics/tip_5_glass.gif);
+}
+div.tip17+ div.tip17box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 400;
+	position: absolute;
+	background-repeat: no-repeat;
+	background-color: #FFFFFF;
+}
+div.tip17:hover+ div.tip17box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 443;
+	position: absolute;
+	top: 420px;
+	left: 384px;
+	width: 275px;
+	height: auto;
+	font-family: 'Cantarell', sans-serif;
+	font-weight: 700;
+	font-size: 14px;
+	color: #024690;
+}
+.tip18 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: 64px;
+	left: 504px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 400;
+	display: block;
+	background-image: url(graphics/tip_5_glass.gif);
+}
+div.tip18+ div.tip18box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 400;
+	position: absolute;
+	background-repeat: no-repeat;
+	background-color: #FFFFFF;
+}
+div.tip18:hover+ div.tip18box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 443;
+	position: absolute;
+	top: 220px;
+	left: 391px;
+	width: 275px;
+	height: auto;
+	font-family: 'Cantarell', sans-serif;
+	font-weight: 700;
+	font-size: 14px;
+	color: #024690;
+}
+.tip19 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: 192px;
+	left: 984px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 400;
+	display: block;
+	background-image: url(graphics/tip_5_glass.gif);
+}
+div.tip19+ div.tip19box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 400;
+	position: absolute;
+	background-repeat: no-repeat;
+	background-color: #FFFFFF;
+}
+div.tip19:hover+ div.tip19box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 443;
+	position: absolute;
+	top: 255px;
+	left: 721px;
+	width: 250px;
+	height: auto;
+	font-family: 'Cantarell', sans-serif;
+	font-weight: 700;
+	font-size: 14px;
+	color: #024690;
+}
+.tip20 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: -40px;
+	left: 984px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 400;
+	display: block;
+	background-image: url(graphics/tip_5_glass.gif);
+}
+div.tip20+ div.tip20box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 400;
+	position: absolute;
+	background-repeat: no-repeat;
+	background-color: #FFFFFF;
+}
+div.tip20:hover+ div.tip20box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 443;
+	position: absolute;
+	top: 53px;
+	left: 744px;
+	width: 228px;
+	height: auto;
+	font-family: 'Cantarell', sans-serif;
+	font-weight: 700;
+	font-size: 14px;
+	color: #024690;
+}
+.figure4  {
+	width: 442px;
+	height: 596px;
+	background-repeat: no-repeat;
+	position: relative;
+	z-index: 126;
+	background-size: contain;
+	left: 51%;
+	top: -204px;
+	background-image: url(graphics/screen4_illustration.png);
+}

@@ -1,0 +1,304 @@
+@charset "UTF-8";
+.text141 {
+	width: 417px;
+	color: rgba(58,6,82,1.00);
+	font-family: 'Cantarell', sans-serif;
+	font-size: 14px;
+	display: block;
+	z-index: 280;
+	position: relative;
+	top: -887px;
+	left: 30%;
+	padding-right: 30px;
+	padding-left: 30px;
+	background-color: rgba(247,248,195,0.73);
+	margin-top: 27px;
+	height: 100vh;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding-top: 35px;
+}
+.text13 {
+	width: 430px;
+	height: 209px;
+	color: #000000;
+	font-family: Cantarell;
+	font-size: 14px;
+	display: block;
+	z-index: 121;
+	position: relative;
+	top: -807px;
+	left: 22%;
+	padding: 30px;
+	background-color: #f7f8c3;
+	margin-top: 27px;
+}
+.boxbackground {
+	background-color: #f7f8c3;
+	width: 831px;
+	height: 269px;
+	position: relative;
+	z-index: -57;
+	top: -209px;
+}
+.boxbackground2 {
+	background-color: #f7f8c3;
+	width: 618px;
+	height: 244px;
+	position: relative;
+	z-index: -57;
+	top: -230px;
+}
+.text14 {
+	width: 358px;
+	height: 184px;
+	color: #000000;
+	font-family: Cantarell;
+	font-size: 14px;
+	display: block;
+	z-index: 247;
+	position: relative;
+	top: -819px;
+	left: 34%;
+	padding: 30px;
+	background-color: #f7f8c3;
+	margin-top: 27px;
+}
+.figure7  {
+	width: 479px;
+	height: 592px;
+	background-repeat: no-repeat;
+	position: relative;
+	z-index: 328;
+	background-size: contain;
+	left: 58%;
+	top: -77px;
+	color: #000000;
+	background-image: url(graphics/screen7_illustration.png);
+}
+.tip31 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: 17px;
+	left: 781px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 400;
+	display: block;
+	background-image: url(graphics/tip_7.gif);
+}
+div.tip31+ div.tip31box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 400;
+	position: absolute;
+	background-repeat: no-repeat;
+	background-color: #E8E9A6;
+}
+div.tip31:hover+ div.tip31box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 515;
+	position: absolute;
+	top: 74px;
+	left: 664px;
+	width: 275px;
+	height: auto;
+	font-family: Cantarell;
+	font-weight: 700;
+	font-size: 14px;
+	color: #000000;
+}
+.tip32 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: 465px;
+	left: 860px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 400;
+	display: block;
+	background-image: url(graphics/tip_7.gif);
+}
+div.tip32+ div.tip32box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 400;
+	position: absolute;
+	background-repeat: no-repeat;
+	background-color: #E8E9A6;
+}
+div.tip32:hover+ div.tip32box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 503;
+	position: absolute;
+	top: 311px;
+	left: 745px;
+	width: 275px;
+	height: auto;
+	font-family: Cantarell;
+	font-weight: 700;
+	font-size: 14px;
+	color: #000000;
+}
+.tip33 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: 122px;
+	left: 229px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 400;
+	display: block;
+	background-image: url(graphics/tip_7.gif);
+}
+div.tip33+ div.tip33box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 400;
+	position: absolute;
+	background-repeat: no-repeat;
+	background-color: #E8E9A6;
+}
+div.tip33:hover+ div.tip33box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 493;
+	position: absolute;
+	top: 276px;
+	left: 115px;
+	width: 275px;
+	height: auto;
+	font-family: Cantarell;
+	font-weight: 700;
+	font-size: 14px;
+	color: #000000;
+}
+.tip34 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: -1px;
+	left: 781px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 400;
+	display: block;
+	background-image: url(graphics/tip_7.gif);
+}
+div.tip34+ div.tip34box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 400;
+	position: absolute;
+	background-repeat: no-repeat;
+	background-color: #E8E9A6;
+}
+div.tip34:hover+ div.tip34box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 400;
+	position: absolute;
+	top: 222px;
+	left: 649px;
+	width: 275px;
+	height: auto;
+	font-family: Cantarell;
+	font-weight: 700;
+	font-size: 14px;
+	color: #000000;
+}
+.tip35 {
+	width: 48px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	top: 221px;
+	left: 229px;
+	height: 48px;
+	background-repeat: no-repeat;
+	z-index: 400;
+	display: block;
+	background-image: url(graphics/tip_7.gif);
+}
+div.tip35+ div.tip35box {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px;
+	box-shadow: 2px 2px 4px;
+	z-index: 400;
+	position: absolute;
+	background-repeat: no-repeat;
+	background-color: #E8E9A6;
+}
+div.tip35:hover+ div.tip35box{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 30px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.32);
+	z-index: 400;
+	position: absolute;
+	top: 471px;
+	left: 117px;
+	width: 275px;
+	height: auto;
+	font-family: Cantarell;
+	font-weight: 700;
+	font-size: 14px;
+	color: #000000;
+}
