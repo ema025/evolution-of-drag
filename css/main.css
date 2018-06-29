@@ -1,0 +1,695 @@
+@charset "UTF-8";
+body {
+	padding: 0px;
+	margin: 0px;
+}
+nav {
+	position: fixed;
+	z-index: 550;
+	width: 293px;
+	top: 210px;
+	bottom: auto;
+	transform: translateY(-50%);
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	left: 62px;
+	margin-top: 0px;
+	height: auto;
+}
+nav ul {
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+	top: 0px;
+}
+nav ul li {
+	list-style-image: none;
+}
+ul li a {
+	font-family: Fjalla One;
+	font-size: 20px;
+	text-decoration: none;
+	color: #000000;
+	cursor: pointer;
+	position: relative;
+	top: 102px;
+}
+section {
+	width: 100vw;
+	height: 100vh;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 100px;
+	box-sizing: border-box;
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+.contentbox {
+	width: 100%;
+	z-index: 25;
+	height: 600vh;
+	display: block;
+	position: relative;
+	top: -73px;
+}
+#sect1 {
+	background-color: #E1D7E7;
+	background-repeat: no-repeat;
+	position: relative;
+	background-image: url(../graphics/screen1_background.jpg);
+}
+#sect2 {
+	background-color: #F69395;
+	background-repeat: no-repeat;
+	background-image: url(../graphics/screen2_background.jpg);
+}
+#sect3 {
+	background-color: #FAF1CF;
+	background-image: url(../graphics/screen3_background.jpg);
+	background-repeat: no-repeat;
+}
+#sect4 {
+	background-color: #CECECE;
+	background-repeat: no-repeat;
+	background-image: url(../graphics/screen4_background.jpg);
+}
+#sect5 {
+	background-repeat: no-repeat;
+	background-color: #DCBCBD;
+	background-image: url(../graphics/screen5_background.jpg);
+}
+#sect6 {
+	background-repeat: no-repeat;
+	background-color: #FFF2B6;
+	background-image: url(../graphics/screen6_background.jpg);
+}
+#sect7 {
+	background-repeat: no-repeat;
+	background-color: #FFF2B6;
+	background-image: url(../graphics/screen7_background.jpg);
+}
+#sect8 {
+	background-repeat: no-repeat;
+	background-color: #FFF2B6;
+	background-image: url(../graphics/screen8_background.jpg);
+}
+#sect9 {
+	background-repeat: no-repeat;
+	background-color: #FFF2B6;
+	background-image: url(../graphics/screen9_background.jpg);
+}
+#sect10 {
+	background-repeat: no-repeat;
+	background-color: #FFF2B6;
+	background-image: url(../graphics/screen10_background.jpg);
+}
+#textheader {
+	width: 261px;
+	height: 115px;
+	position: fixed;
+	font-family: Fjalla One;
+	top: -143px;
+}
+#evolution {
+	font-size: 62px;
+	color: #a50707;
+	width: 275px;
+	z-index: 137;
+}
+#textheader #ofdrag {
+	color: rgba(0,0,0,1.00);
+	font-size: 40px;
+	position: fixed;
+	top: -79px;
+}
+#textheader #pagename {
+}
+.menu1 {
+	width: 34px;
+	text-align: center;
+	cursor: pointer;
+	position: fixed;
+	height: 35px;
+	background-repeat: no-repeat;
+	z-index: 700;
+	display: block;
+	background-image: url(../graphics/triangle.png);
+	background-size: contain;
+	top: 7px;
+}
+.menu1:hover {
+	width: 34px;
+	text-align: center;
+	cursor: pointer;
+	position: fixed;
+	height: 35px;
+	background-repeat: no-repeat;
+	z-index: 700;
+	display: block;
+	background-image: url(../graphics/triangle2.png);
+	background-size: contain;
+	top: 7px;
+}
+div.menu1+ div.menutext {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px;
+	box-shadow: 2px 2px;
+	z-index: 700;
+	background-repeat: no-repeat;
+	position: fixed;
+}
+div.menu1:hover+ div.menutext{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: 0 0px 0px;
+	box-shadow: 0 0px 0px;
+	z-index: 900;
+	position: fixed;
+	width: 303px;
+	height: auto;
+	font-weight: 700;
+	font-size: 28px;
+	color: #FFFFFF;
+	font-family: 'Fjalla One', sans-serif;
+	top: 7px;
+	left: 40px;
+	text-shadow: 3px 2px 6px rgba(0,0,0,0.44);
+}
+.menu2 {
+	width: 34px;
+	text-align: center;
+	cursor: pointer;
+	position: fixed;
+	height: 35px;
+	background-repeat: no-repeat;
+	z-index: 579;
+	display: block;
+	background-image: url(../graphics/triangle.png);
+	background-size: contain;
+	top: 43px;
+}
+.menu2:hover {
+	width: 34px;
+	text-align: center;
+	cursor: pointer;
+	position: fixed;
+	height: 35px;
+	background-repeat: no-repeat;
+	z-index: 579;
+	display: block;
+	background-image: url(../graphics/triangle2.png);
+	background-size: contain;
+	top: 43px;
+}
+div.menu2+ div.menutext2 {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px;
+	box-shadow: 2px 2px;
+	z-index: 400;
+	background-repeat: no-repeat;
+	position: fixed;
+}
+div.menu2:hover+ div.menutext2{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: 0 0px 0px;
+	box-shadow: 0 0px 0px;
+	z-index: 900;
+	position: fixed;
+	width: 303px;
+	height: auto;
+	font-weight: 700;
+	font-size: 28px;
+	color: #FFFFFF;
+	font-family: 'Fjalla One', sans-serif;
+	top: 43px;
+	left: 40px;
+	text-shadow: 3px 2px 6px rgba(0,0,0,0.44);
+}
+.menu3 {
+	width: 34px;
+	text-align: center;
+	cursor: pointer;
+	position: fixed;
+	height: 35px;
+	background-repeat: no-repeat;
+	z-index: 579;
+	display: block;
+	background-image: url(../graphics/triangle.png);
+	background-size: contain;
+	top: 77px;
+}
+.menu3:hover {
+	width: 34px;
+	text-align: center;
+	cursor: pointer;
+	position: fixed;
+	height: 35px;
+	background-repeat: no-repeat;
+	z-index: 579;
+	display: block;
+	background-image: url(../graphics/triangle2.png);
+	background-size: contain;
+	top: 77px;
+}
+div.menu3+ div.menutext3 {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px;
+	box-shadow: 2px 2px;
+	z-index: 400;
+	background-repeat: no-repeat;
+	position: fixed;
+}
+div.menu3:hover+ div.menutext3{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: 0 0px 0px;
+	box-shadow: 0 0px 0px;
+	z-index: 900;
+	position: fixed;
+	width: 303px;
+	height: auto;
+	font-weight: 700;
+	font-size: 28px;
+	color: #FFFFFF;
+	font-family: 'Fjalla One', sans-serif;
+	top: 77px;
+	left: 40px;
+	text-shadow: 3px 2px 6px rgba(0,0,0,0.44);
+}
+.menu4 {
+	width: 34px;
+	text-align: center;
+	cursor: pointer;
+	position: fixed;
+	height: 35px;
+	background-repeat: no-repeat;
+	z-index: 579;
+	display: block;
+	background-image: url(../graphics/triangle.png);
+	background-size: contain;
+	top: 111px;
+}
+.menu4:hover {
+	width: 34px;
+	text-align: center;
+	cursor: pointer;
+	position: fixed;
+	height: 35px;
+	background-repeat: no-repeat;
+	z-index: 579;
+	display: block;
+	background-image: url(../graphics/triangle2.png);
+	background-size: contain;
+	top: 111px;
+}
+div.menu4+ div.menutext4 {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px;
+	box-shadow: 2px 2px;
+	z-index: 400;
+	background-repeat: no-repeat;
+	position: fixed;
+}
+div.menu4:hover+ div.menutext4{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: 0 0px 0px;
+	box-shadow: 0 0px 0px;
+	z-index: 900;
+	position: fixed;
+	width: 303px;
+	height: auto;
+	font-weight: 700;
+	font-size: 28px;
+	color: #FFFFFF;
+	font-family: 'Fjalla One', sans-serif;
+	top: 111px;
+	left: 40px;
+	text-shadow: 3px 2px 6px rgba(0,0,0,0.44);
+}
+.menu5 {
+	width: 34px;
+	text-align: center;
+	cursor: pointer;
+	position: fixed;
+	height: 35px;
+	background-repeat: no-repeat;
+	z-index: 579;
+	display: block;
+	background-image: url(../graphics/triangle.png);
+	background-size: contain;
+	top: 146px;
+}
+.menu5:hover {
+	width: 34px;
+	text-align: center;
+	cursor: pointer;
+	position: fixed;
+	height: 35px;
+	background-repeat: no-repeat;
+	z-index: 579;
+	display: block;
+	background-image: url(../graphics/triangle2.png);
+	background-size: contain;
+	top: 146px;
+}
+div.menu5+ div.menutext5 {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px;
+	box-shadow: 2px 2px;
+	z-index: 400;
+	background-repeat: no-repeat;
+	position: fixed;
+}
+div.menu5:hover+ div.menutext5{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: 0 0px 0px;
+	box-shadow: 0 0px 0px;
+	z-index: 900;
+	position: fixed;
+	width: 303px;
+	height: auto;
+	font-weight: 700;
+	font-size: 28px;
+	color: #FFFFFF;
+	font-family: 'Fjalla One', sans-serif;
+	top: 146px;
+	left: 40px;
+	text-shadow: 3px 2px 6px rgba(0,0,0,0.44);
+}
+.menu6 {
+	width: 34px;
+	text-align: center;
+	cursor: pointer;
+	position: fixed;
+	height: 35px;
+	background-repeat: no-repeat;
+	z-index: 579;
+	display: block;
+	background-image: url(../graphics/triangle.png);
+	background-size: contain;
+	top: 184px;
+}
+.menu6:hover {
+	width: 34px;
+	text-align: center;
+	cursor: pointer;
+	position: fixed;
+	height: 35px;
+	background-repeat: no-repeat;
+	z-index: 579;
+	display: block;
+	background-image: url(../graphics/triangle2.png);
+	background-size: contain;
+	top: 184px;
+}
+div.menu6+ div.menutext6 {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px;
+	box-shadow: 2px 2px;
+	z-index: 400;
+	background-repeat: no-repeat;
+	position: fixed;
+}
+div.menu6:hover+ div.menutext6{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: 0 0px 0px;
+	box-shadow: 0 0px 0px;
+	z-index: 900;
+	position: fixed;
+	width: 303px;
+	height: auto;
+	font-weight: 700;
+	font-size: 28px;
+	color: #FFFFFF;
+	font-family: 'Fjalla One', sans-serif;
+	top: 184px;
+	left: 40px;
+	text-shadow: 3px 2px 6px rgba(0,0,0,0.44);
+}
+.menu7 {
+	width: 34px;
+	text-align: center;
+	cursor: pointer;
+	position: fixed;
+	height: 35px;
+	background-repeat: no-repeat;
+	z-index: 579;
+	display: block;
+	background-image: url(../graphics/triangle.png);
+	background-size: contain;
+	top: 219px;
+}
+.menu7:hover {
+	width: 34px;
+	text-align: center;
+	cursor: pointer;
+	position: fixed;
+	height: 35px;
+	background-repeat: no-repeat;
+	z-index: 579;
+	display: block;
+	background-image: url(../graphics/triangle2.png);
+	background-size: contain;
+	top: 219px;
+}
+div.menu7+ div.menutext7 {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px;
+	box-shadow: 2px 2px;
+	z-index: 400;
+	background-repeat: no-repeat;
+	position: fixed;
+}
+div.menu7:hover+ div.menutext7{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: 0 0px 0px;
+	box-shadow: 0 0px 0px;
+	z-index: 900;
+	position: fixed;
+	width: 303px;
+	height: auto;
+	font-weight: 700;
+	font-size: 28px;
+	color: #FFFFFF;
+	font-family: 'Fjalla One', sans-serif;
+	top: 219px;
+	left: 40px;
+	text-shadow: 3px 2px 6px rgba(0,0,0,0.44);
+}
+.menu8 {
+	width: 34px;
+	text-align: center;
+	cursor: pointer;
+	position: fixed;
+	height: 35px;
+	background-repeat: no-repeat;
+	z-index: 579;
+	display: block;
+	background-image: url(../graphics/triangle.png);
+	background-size: contain;
+	top: 252px;
+}
+.menu8:hover {
+	width: 34px;
+	text-align: center;
+	cursor: pointer;
+	position: fixed;
+	height: 35px;
+	background-repeat: no-repeat;
+	z-index: 579;
+	display: block;
+	background-image: url(../graphics/triangle2.png);
+	background-size: contain;
+	top: 252px;
+}
+div.menu8+ div.menutext8 {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px;
+	box-shadow: 2px 2px;
+	z-index: 400;
+	background-repeat: no-repeat;
+	position: fixed;
+	background-size: contain;
+}
+div.menu8:hover+ div.menutext8{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: 0 0px 0px;
+	box-shadow: 0 0px 0px;
+	z-index: 900;
+	position: fixed;
+	width: 303px;
+	height: auto;
+	font-weight: 700;
+	font-size: 28px;
+	color: #FFFFFF;
+	font-family: 'Fjalla One', sans-serif;
+	top: 252px;
+	left: 40px;
+	text-shadow: 3px 2px 6px rgba(0,0,0,0.44);
+}
+.menu9 {
+	width: 34px;
+	text-align: center;
+	cursor: pointer;
+	position: fixed;
+	height: 35px;
+	background-repeat: no-repeat;
+	z-index: 579;
+	display: block;
+	background-image: url(../graphics/triangle.png);
+	background-size: contain;
+	top: 286px;
+}
+.menu9:hover {
+	width: 34px;
+	text-align: center;
+	cursor: pointer;
+	position: fixed;
+	height: 35px;
+	background-repeat: no-repeat;
+	z-index: 579;
+	display: block;
+	background-image: url(../graphics/triangle2.png);
+	background-size: contain;
+	top: 286px;
+}
+div.menu9+ div.menutext9 {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px;
+	box-shadow: 2px 2px;
+	z-index: 400;
+	background-repeat: no-repeat;
+	position: fixed;
+}
+div.menu9:hover+ div.menutext9{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: 0 0px 0px;
+	box-shadow: 0 0px 0px;
+	z-index: 900;
+	position: fixed;
+	width: 303px;
+	height: auto;
+	font-weight: 700;
+	font-size: 28px;
+	color: #FFFFFF;
+	font-family: 'Fjalla One', sans-serif;
+	top: 284px;
+	left: 40px;
+	text-shadow: 3px 2px 6px rgba(0,0,0,0.44);
+}
+.menu10 {
+	width: 34px;
+	text-align: center;
+	cursor: pointer;
+	position: fixed;
+	height: 35px;
+	background-repeat: no-repeat;
+	z-index: 579;
+	display: block;
+	background-image: url(../graphics/triangle.png);
+	background-size: contain;
+	top: 320px;
+}
+.menu10:hover {
+	width: 34px;
+	text-align: center;
+	cursor: pointer;
+	position: fixed;
+	height: 35px;
+	background-repeat: no-repeat;
+	z-index: 579;
+	display: block;
+	background-image: url(../graphics/triangle2.png);
+	background-size: contain;
+	top: 320px;
+}
+div.menu10+ div.menutext10 {
+	display: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px;
+	box-shadow: 2px 2px;
+	z-index: 400;
+	background-repeat: no-repeat;
+	position: fixed;
+}
+div.menu10:hover+ div.menutext10{
+	display: block;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: 0 0px 0px;
+	box-shadow: 0 0px 0px;
+	z-index: 900;
+	position: fixed;
+	width: 303px;
+	height: auto;
+	font-weight: 700;
+	font-size: 28px;
+	color: #FFFFFF;
+	font-family: 'Fjalla One', sans-serif;
+	top: 318px;
+	left: 40px;
+	text-shadow: 3px 2px 6px rgba(0,0,0,0.44);
+}
+h3{
+	font-size: 15px;
+	display: block;
+}
